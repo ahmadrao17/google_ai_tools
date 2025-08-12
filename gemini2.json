@@ -1,0 +1,319 @@
+{
+  "Questions": [
+    {
+      "options": [
+        {
+          "text": "He was leading a political opposition movement against Abu Bakr.",
+          "value": false
+        },
+        {
+          "text": "He was occupied with the Prophet's ritual washing (Ghusl) and burial.",
+          "value": true
+        },
+        {
+          "text": "He was not invited to the meeting by the Ansar and Muhajirun.",
+          "value": false
+        },
+        {
+          "text": "He was on a military campaign outside of Medina.",
+          "value": false
+        }
+      ],
+      "text": "According to the Sunni perspective presented in the text, why was Hazrat Ali (RA) absent from the Saqifah meeting where the next leader was selected?"
+    },
+    {
+      "options": [
+        {
+          "text": "A disagreement over the policies of the new caliphate.",
+          "value": false
+        },
+        {
+          "text": "He was waiting for a larger group of his supporters to gather.",
+          "value": false
+        },
+        {
+          "text": "Primarily due to personal grief and the sorrow of Fatimah (RA).",
+          "value": true
+        },
+        {
+          "text": "He was contesting the legitimacy of the selection process.",
+          "value": false
+        }
+      ],
+      "text": "What does the document state as the main reason for Hazrat Ali's (RA) delay in pledging allegiance (Bay'ah) to Abu Bakr (RA)?"
+    },
+    {
+      "options": [
+        {
+          "text": "He cited the Prophet's teaching that prophets do not leave material inheritance, but sadaqah.",
+          "value": true
+        },
+        {
+          "text": "He argued that the state needed the income from Fadak for military expenses.",
+          "value": false
+        },
+        {
+          "text": "He claimed personal ownership of the land.",
+          "value": false
+        },
+        {
+          "text": "He believed Fatimah (RA) had no legal claim to it.",
+          "value": false
+        }
+      ],
+      "text": "In the dispute over Fadak, what was the legal basis Abu Bakr (RA) used to decline Fatimah's (RA) request for it as inheritance?"
+    },
+    {
+      "options": [
+        {
+          "text": "Ali (RA) refused to follow the Qur'an and Sunnah.",
+          "value": false
+        },
+        {
+          "text": "Uthman (RA) promised key positions to the council members.",
+          "value": false
+        },
+        {
+          "text": "Uthman (RA) agreed to follow the precedents of Abu Bakr and Umar, while Ali (RA) stated he would use his own legal reasoning (ijtihad) where no clear precedent existed.",
+          "value": true
+        },
+        {
+          "text": "Ali (RA) withdrew from the selection process voluntarily.",
+          "value": false
+        }
+      ],
+      "text": "During the Shura council to select the third Caliph, what was the significant difference in approach between Uthman (RA) and Ali (RA) that influenced the final decision?"
+    },
+    {
+      "options": [
+        {
+          "text": "He fully supported it without any reservations.",
+          "value": false
+        },
+        {
+          "text": "He warned that concentrating power within the Umayyad family was eroding public confidence.",
+          "value": true
+        },
+        {
+          "text": "He publicly condemned Uthman and started an opposition movement.",
+          "value": false
+        },
+        {
+          "text": "He remained completely silent and uninvolved in the matter.",
+          "value": false
+        }
+      ],
+      "text": "What was Hazrat Ali's (RA) stance on Caliph Uthman's (RA) appointment of his relatives to key administrative positions?"
+    },
+    {
+      "options": [
+        {
+          "text": "The delegation intercepted a courier with a letter, allegedly sealed with Uthman's mark, instructing the authorities to execute them upon their return.",
+          "value": true
+        },
+        {
+          "text": "Uthman publicly denied their claims and refused to meet with them again.",
+          "value": false
+        },
+        {
+          "text": "Ali personally advised them to return to Egypt without a resolution.",
+          "value": false
+        },
+        {
+          "text": "The governor they complained about was re-appointed immediately after they left Medina.",
+          "value": false
+        }
+      ],
+      "text": "What was 'The Letter Incident' that shattered the peace mediation between Caliph Uthman and the Egyptian delegation?"
+    },
+    {
+      "options": [
+        {
+          "text": "He joined the rebels and encouraged them.",
+          "value": false
+        },
+        {
+          "text": "He left Medina to avoid getting involved.",
+          "value": false
+        },
+        {
+          "text": "He advised Uthman to abdicate his position.",
+          "value": false
+        },
+        {
+          "text": "He sent his sons, Hasan and Husayn, to guard Uthman's residence against the mob.",
+          "value": true
+        }
+      ],
+      "text": "What specific action did Hazrat Ali (RA) take to protect Caliph Uthman (RA) during the 40-day siege of his house?"
+    },
+    {
+      "options": [
+        {
+          "text": "An administrative overhaul, which included dismissing several governors appointed during Uthman's rule.",
+          "value": true
+        },
+        {
+          "text": "The immediate punishment of all those accused of involvement in Uthman's murder.",
+          "value": false
+        },
+        {
+          "text": "A military campaign to expand the Islamic empire into Syria.",
+          "value": false
+        },
+        {
+          "text": "Appointing his own relatives to all key government positions.",
+          "value": false
+        }
+      ],
+      "text": "According to the text, what was one of the first major policy changes Hazrat Ali (RA) implemented after becoming Caliph?"
+    },
+    {
+      "options": [
+        {
+          "text": "To grant them all immediate amnesty.",
+          "value": false
+        },
+        {
+          "text": "To delay punishment until order was restored and due process could be followed.",
+          "value": true
+        },
+        {
+          "text": "To exile them immediately to prevent further conflict.",
+          "value": false
+        },
+        {
+          "text": "To allow their tribes to decide their fate.",
+          "value": false
+        }
+      ],
+      "text": "What was Hazrat Ali's (RA) stated policy regarding dealing with the assassins of Caliph Uthman (RA), which became a point of contention?"
+    },
+    {
+      "options": [
+        {
+          "text": "Ayesha (RA) ordered him to leave the battlefield.",
+          "value": false
+        },
+        {
+          "text": "He was struck by an arrow and had to be carried away.",
+          "value": false
+        },
+        {
+          "text": "Hazrat Ali (RA) reminded him of a prophecy by the Prophet (PBUH), which made him realize his mistake.",
+          "value": true
+        },
+        {
+          "text": "He saw the saboteurs initiating the battle and refused to participate.",
+          "value": false
+        }
+      ],
+      "text": "What specific event during the Battle of Jamal prompted Zubair ibn al-Awwam (RA) to withdraw from the conflict?"
+    },
+    {
+      "options": [
+        {
+          "text": "The negotiation for a peaceful resolution was sabotaged by rebels who feared peace would lead to their execution.",
+          "value": true
+        },
+        {
+          "text": "Hazrat Ali (RA) refused to negotiate with Aisha's (RA) faction.",
+          "value": false
+        },
+        {
+          "text": "Talha (RA) and Zubair (RA) rejected the peace terms and ordered an attack.",
+          "value": false
+        },
+        {
+          "text": "Aisha's (RA) camel charged into Hazrat Ali's (RA) camp, starting the battle.",
+          "value": false
+        }
+      ],
+      "text": "What does the document identify as the immediate cause for the outbreak of fighting at the Battle of Jamal, despite initial inclinations towards peace?"
+    },
+    {
+      "options": [
+        {
+          "text": "They feigned a mass retreat to lure Ali's army into a trap.",
+          "value": false
+        },
+        {
+          "text": "They raised copies of the Qur'an on their spears, calling for arbitration by the book of Allah.",
+          "value": true
+        },
+        {
+          "text": "Their commander, Amr ibn al-As, challenged Ali to single combat.",
+          "value": false
+        },
+        {
+          "text": "They sent a delegation to Ali's camp to ask for a temporary truce.",
+          "value": false
+        }
+      ],
+      "text": "During the Battle of Siffin, what tactical maneuver did Amr ibn al-As advise Muawiya's army to use when they began to lose ground?"
+    },
+    {
+      "options": [
+        {
+          "text": "The martyrdom of Ammar ibn Yasir (RA), which was seen as evidence that Ali's side was on the truth, based on a hadith.",
+          "value": true
+        },
+        {
+          "text": "The successful capture of Muawiya's command post.",
+          "value": false
+        },
+        {
+          "text": "The arrival of reinforcements from Egypt for Ali's army.",
+          "value": false
+        },
+        {
+          "text": "Muawiya's army running out of water supplies.",
+          "value": false
+        }
+      ],
+      "text": "What event during the Battle of Siffin was considered extremely significant because it was believed to fulfill a prophecy of the Prophet (PBUH) about the 'transgressing party'?"
+    },
+    {
+      "options": [
+        {
+          "text": "It was a success, and both sides agreed to recognize Ali (RA) as the Caliph.",
+          "value": false
+        },
+        {
+          "text": "Abu Musa al-Ash'ari announced the deposition of both Ali and Mu'awiya, but Amr ibn al-As then confirmed Mu'awiya as Caliph.",
+          "value": true
+        },
+        {
+          "text": "Both arbitrators agreed to depose Ali (RA) and Mu'awiya (RA) and select a new Caliph through a council.",
+          "value": false
+        },
+        {
+          "text": "The arbitration was postponed indefinitely due to disagreements.",
+          "value": false
+        }
+      ],
+      "text": "What was the outcome of the first round of arbitration at Dumat al-Jandal?"
+    },
+    {
+      "options": [
+        {
+          "text": "Misapplying a verse to declare that 'judgment belongs only to Allah' and rejecting human arbitration.",
+          "value": true
+        },
+        {
+          "text": "Demanding that Hazrat Ali (RA) should have been the first Caliph.",
+          "value": false
+        },
+        {
+          "text": "Insisting on the immediate execution of Mu'awiya (RA).",
+          "value": false
+        },
+        {
+          "text": "Claiming that Hazrat Ali (RA) did not fight hard enough at the Battle of Siffin.",
+          "value": false
+        }
+      ],
+      "text": "What was the core ideological belief of the Khawarij that led them to break away from Hazrat Ali's (RA) army after the Battle of Siffin?"
+    }
+  ]
+}

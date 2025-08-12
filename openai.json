@@ -1,0 +1,1348 @@
+{
+  "Questions": [
+    {
+      "options": [
+        {
+          "text": "Option 1: The main purpose of the course material is to provide an in-depth understanding of the key concepts within the field.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The course material is only focused on historical facts and has no modern applications.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The course is designed solely for entertainment purposes.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The course excludes any form of practical examples.",
+          "value": false
+        }
+      ],
+      "text": "What is the main objective of the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: To explain terminology and concepts relevant to the subject.",
+          "value": true
+        },
+        {
+          "text": "Option 2: To provide fiction stories unrelated to the subject.",
+          "value": false
+        },
+        {
+          "text": "Option 3: To focus only on mathematical equations.",
+          "value": false
+        },
+        {
+          "text": "Option 4: To discourage students from asking questions.",
+          "value": false
+        }
+      ],
+      "text": "What is one of the primary goals of the introductory section of the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: A comprehensive overview of the key topics will be presented.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The course will avoid discussing key topics.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only one key topic will be discussed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The material is not organized by topics.",
+          "value": false
+        }
+      ],
+      "text": "How is the course material organized according to the introduction?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides definitions and explanations of important concepts.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material avoids giving definitions.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The material only provides historical background.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The material focuses exclusively on problem-solving.",
+          "value": false
+        }
+      ],
+      "text": "What is a characteristic feature of the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Real-world examples are used to illustrate concepts.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The course material is devoid of any examples.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only hypothetical scenarios are used.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Examples are discouraged within the material.",
+          "value": false
+        }
+      ],
+      "text": "How does the course material support understanding of key concepts?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Key terms are clearly defined throughout the material.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Key terms are only listed without definition.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The material avoids using key terms.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Definitions are only provided at the end of the course.",
+          "value": false
+        }
+      ],
+      "text": "How are key terms handled in the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material encourages critical thinking and analysis.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material discourages questioning established ideas.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The material only asks for memorization.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The material does not promote critical analysis.",
+          "value": false
+        }
+      ],
+      "text": "What skill does the material aim to develop in students?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Each chapter contains a summary of main points.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Summaries are omitted from all chapters.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only the first chapter has a summary.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Main points are never summarized.",
+          "value": false
+        }
+      ],
+      "text": "How does the material help reinforce learning at the end of each chapter?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Review questions are provided to test comprehension.",
+          "value": true
+        },
+        {
+          "text": "Option 2: No review questions are included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only essay questions are provided.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Review questions are not related to the material.",
+          "value": false
+        }
+      ],
+      "text": "What method is used in the material to help students assess their understanding?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material is periodically updated to reflect current developments.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material remains unchanged regardless of new findings.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The updates only include stylistic changes.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Updates are never mentioned as a feature.",
+          "value": false
+        }
+      ],
+      "text": "How does the course material stay relevant with time?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course is suitable for both beginners and advanced students.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The course is only for experts.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only beginners can benefit from the course.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The course is not suitable for students at any level.",
+          "value": false
+        }
+      ],
+      "text": "Who is the intended audience for the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material covers both theoretical and practical aspects.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material is purely theoretical.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only practical aspects are covered.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Neither aspect is discussed.",
+          "value": false
+        }
+      ],
+      "text": "What is the scope of the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Visual aids such as diagrams and charts are used.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material avoids visual aids.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only text is used throughout.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Visual aids are only used in the appendix.",
+          "value": false
+        }
+      ],
+      "text": "How are complex ideas presented in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material builds on previously introduced concepts.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Each chapter is unrelated to the previous ones.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Chapters are randomly organized.",
+          "value": false
+        },
+        {
+          "text": "Option 4: No logical progression is followed.",
+          "value": false
+        }
+      ],
+      "text": "How does the structure of the material support learning?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course encourages students to do further reading.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Further reading is discouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Reading outside the material is prohibited.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only the material itself should be used.",
+          "value": false
+        }
+      ],
+      "text": "What is the attitude of the course material towards additional resources?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides practical exercises for skill development.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Exercises are not included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only theory is presented.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Exercises are not related to the material.",
+          "value": false
+        }
+      ],
+      "text": "How does the material facilitate practical skill acquisition?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Assessments are used to gauge student progress.",
+          "value": true
+        },
+        {
+          "text": "Option 2: No assessments are included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Assessments are only optional.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Assessments are unrelated to the content.",
+          "value": false
+        }
+      ],
+      "text": "What is the role of assessments in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: Group discussions are encouraged to enhance learning.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Discussions are discouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only individual work is allowed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Collaboration is not mentioned.",
+          "value": false
+        }
+      ],
+      "text": "How does the material view collaborative learning?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material is accessible to students with various learning styles.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only one learning style is supported.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The material is not adaptable.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Accessibility is not addressed.",
+          "value": false
+        }
+      ],
+      "text": "How does the material cater to different types of learners?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course includes real-world case studies.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Case studies are not included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only theoretical examples are used.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Case studies are only used in the introduction.",
+          "value": false
+        }
+      ],
+      "text": "What type of examples are used to illustrate concepts in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material includes a glossary of terms.",
+          "value": true
+        },
+        {
+          "text": "Option 2: No glossary is present.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The glossary is incomplete.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Terms are only explained in footnotes.",
+          "value": false
+        }
+      ],
+      "text": "How are specialized terms explained in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: References to current research are included.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material ignores current research.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Research is only mentioned in passing.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only outdated research is referenced.",
+          "value": false
+        }
+      ],
+      "text": "How does the material incorporate recent developments in the field?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material emphasizes ethical considerations.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Ethics are not discussed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only technical aspects are covered.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Ethical issues are only addressed in the conclusion.",
+          "value": false
+        }
+      ],
+      "text": "What is the position of the material regarding ethical issues?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material includes multiple forms of assessment.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only one assessment method is used.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Assessments are all identical.",
+          "value": false
+        },
+        {
+          "text": "Option 4: No assessment methods are specified.",
+          "value": false
+        }
+      ],
+      "text": "How are students' skills evaluated in the course?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides suggestions for further study.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Further study is discouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Suggestions are irrelevant to the subject.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only external sources are suggested.",
+          "value": false
+        }
+      ],
+      "text": "How does the material support continued learning after the course?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course content is periodically reviewed for accuracy.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The course content is never reviewed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only outdated content is reviewed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Reviews are not documented.",
+          "value": false
+        }
+      ],
+      "text": "What quality control measures are mentioned in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material is organized to facilitate self-paced learning.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Self-paced learning is not supported.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only instructor-led learning is allowed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The material is disorganized.",
+          "value": false
+        }
+      ],
+      "text": "How does the material accommodate different learning speeds?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material is structured in a modular format.",
+          "value": true
+        },
+        {
+          "text": "Option 2: There is no structure to the course material.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only one module exists.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Modules are not related to each other.",
+          "value": false
+        }
+      ],
+      "text": "What is the structural format of the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material encourages application of knowledge in real-life situations.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Application is not encouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only theoretical understanding is valued.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Practical application is not mentioned.",
+          "value": false
+        }
+      ],
+      "text": "How is the application of knowledge addressed in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material is designed to be engaging and interactive.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material is intentionally passive.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only lectures are used.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Interaction is discouraged.",
+          "value": false
+        }
+      ],
+      "text": "How does the material seek to engage students?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides guidance on effective study strategies.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Study strategies are not mentioned.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only content delivery is covered.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Strategies are irrelevant to the material.",
+          "value": false
+        }
+      ],
+      "text": "How are students supported in their learning approach?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course includes feedback mechanisms for students.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Feedback is not provided.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Feedback is only available upon request.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only peer feedback is included.",
+          "value": false
+        }
+      ],
+      "text": "How is feedback incorporated into the course design?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material highlights common misconceptions.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Misconceptions are ignored.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only correct information is presented.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Misconceptions are addressed only in appendices.",
+          "value": false
+        }
+      ],
+      "text": "How are potential misunderstandings addressed in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides context for the importance of each topic.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Context is not provided.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only facts are presented.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Importance is only mentioned in the summary.",
+          "value": false
+        }
+      ],
+      "text": "How does the material convey the relevance of its content?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material is designed for flexible use.",
+          "value": true
+        },
+        {
+          "text": "Option 2: The material must be used in a fixed order.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only instructors can adapt the material.",
+          "value": false
+        },
+        {
+          "text": "Option 4: No flexibility is allowed.",
+          "value": false
+        }
+      ],
+      "text": "How adaptable is the course material to different teaching and learning situations?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material places emphasis on foundational concepts.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only advanced topics are covered.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Foundations are not addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only current trends are discussed.",
+          "value": false
+        }
+      ],
+      "text": "What is the focus of the foundational chapters?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material integrates cross-disciplinary perspectives.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only one discipline is considered.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Cross-disciplinary content is excluded.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Perspectives are not integrated.",
+          "value": false
+        }
+      ],
+      "text": "How does the course material approach interdisciplinary content?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course includes opportunities for project-based learning.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Projects are not included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only quizzes are provided.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Projects are optional extras.",
+          "value": false
+        }
+      ],
+      "text": "What kind of learning activities are encouraged by the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course includes both formative and summative assessment.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only summative assessment is used.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Assessments are not categorized.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only formative assessment is used.",
+          "value": false
+        }
+      ],
+      "text": "What types of assessment are described in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material is accessible in multiple formats.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only one format is available.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Accessibility is not considered.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Formats are not specified.",
+          "value": false
+        }
+      ],
+      "text": "How does the material support different access needs?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material includes self-assessment tools.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Self-assessment is not addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only instructor-led assessment is available.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Self-assessment tools are optional extras.",
+          "value": false
+        }
+      ],
+      "text": "How is student reflection and self-evaluation supported?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides a timeline for course completion.",
+          "value": true
+        },
+        {
+          "text": "Option 2: No timeline is provided.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only approximate durations are given.",
+          "value": false
+        },
+        {
+          "text": "Option 4: The timeline is not relevant.",
+          "value": false
+        }
+      ],
+      "text": "How is course pacing addressed in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course encourages independent research.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only guided research is allowed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Research is discouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Independent research is not mentioned.",
+          "value": false
+        }
+      ],
+      "text": "What is the stance of the material towards independent inquiry?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material includes real-world problem-solving tasks.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Problem-solving is not addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only theoretical exercises are included.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Problem-solving is only discussed in supplementary materials.",
+          "value": false
+        }
+      ],
+      "text": "How does the material develop practical problem-solving skills?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material is designed for both classroom and individual use.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only classroom use is allowed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: The material cannot be used individually.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only group work is supported.",
+          "value": false
+        }
+      ],
+      "text": "How versatile is the material in terms of use context?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course emphasizes lifelong learning.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only short-term learning is addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Lifelong learning is not discussed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only exam preparation is encouraged.",
+          "value": false
+        }
+      ],
+      "text": "How does the course material view ongoing education?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material includes annotated bibliographies.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Bibliographies are not included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only unannotated lists are provided.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Bibliographies are irrelevant.",
+          "value": false
+        }
+      ],
+      "text": "How are sources and references handled in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material is periodically reviewed and updated.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Updates are never performed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only major revisions are made.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Updates occur randomly.",
+          "value": false
+        }
+      ],
+      "text": "What is the frequency and process for updating the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material aligns with recognized standards in the field.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Standards are not considered.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only local standards are used.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Alignment with standards is not mentioned.",
+          "value": false
+        }
+      ],
+      "text": "How does the material ensure relevance and credibility?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material supports the development of transferable skills.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only subject-specific skills are addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Transferable skills are not mentioned.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Skills are not part of the curriculum.",
+          "value": false
+        }
+      ],
+      "text": "What types of skills are targeted by the course?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material includes opportunities for peer review.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Peer review is not supported.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only instructor review is encouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Peer review is optional.",
+          "value": false
+        }
+      ],
+      "text": "How does the material foster peer feedback and evaluation?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material is reviewed by subject matter experts.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only students review the material.",
+          "value": false
+        },
+        {
+          "text": "Option 3: No review process is described.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Reviews are not mentioned.",
+          "value": false
+        }
+      ],
+      "text": "Who is responsible for the validation of content in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material offers guidance on academic integrity.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Academic integrity is not addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only technical issues are discussed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Integrity is not relevant.",
+          "value": false
+        }
+      ],
+      "text": "How are ethical academic practices addressed in the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material encourages the use of technology for learning.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Technology use is discouraged.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only traditional resources are used.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Technology is not mentioned.",
+          "value": false
+        }
+      ],
+      "text": "How is technology integrated into the learning process according to the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material contains a section on frequently asked questions.",
+          "value": true
+        },
+        {
+          "text": "Option 2: FAQs are not included.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only instructor queries are listed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: FAQs are unrelated to the material.",
+          "value": false
+        }
+      ],
+      "text": "How are common questions addressed in the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course supports both synchronous and asynchronous learning modes.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only synchronous learning is allowed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Asynchronous learning is not supported.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Learning modes are not specified.",
+          "value": false
+        }
+      ],
+      "text": "What learning modes are supported by the course material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material addresses diverse cultural perspectives.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only one cultural perspective is represented.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Cultural diversity is ignored.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only local culture is referenced.",
+          "value": false
+        }
+      ],
+      "text": "How does the material approach cultural diversity?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course includes opportunities for reflective practice.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Reflection is not addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only action is emphasized.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Reflection is optional.",
+          "value": false
+        }
+      ],
+      "text": "What role does reflection play in the learning process according to the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material provides instructions for using supplementary materials.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Supplementary materials are not mentioned.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only main materials are used.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Instructions are not provided.",
+          "value": false
+        }
+      ],
+      "text": "How are additional learning resources incorporated?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material is available in both digital and print formats.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only digital format is available.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only print format is available.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Format is not specified.",
+          "value": false
+        }
+      ],
+      "text": "What delivery methods are supported by the material?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material includes checklists for tracking progress.",
+          "value": true
+        },
+        {
+          "text": "Option 2: No progress tracking is provided.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only instructor tracking is available.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Checklists are only for teachers.",
+          "value": false
+        }
+      ],
+      "text": "How does the material help students monitor their learning?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material is designed for continuous improvement.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Improvement is not addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only fixed content is provided.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only periodic reviews are done.",
+          "value": false
+        }
+      ],
+      "text": "How does the course material ensure ongoing quality?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The material includes support for multiple languages.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Only one language is available.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Language support is not mentioned.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only translations are provided.",
+          "value": false
+        }
+      ],
+      "text": "How does the material address language diversity?"
+    },
+    {
+      "options": [
+        {
+          "text": "Option 1: The course material supports accessibility for students with disabilities.",
+          "value": true
+        },
+        {
+          "text": "Option 2: Accessibility is not considered.",
+          "value": false
+        },
+        {
+          "text": "Option 3: Only physical access is addressed.",
+          "value": false
+        },
+        {
+          "text": "Option 4: Only visual disabilities are considered.",
+          "value": false
+        }
+      ],
+      "text": "How is accessibility addressed in the material?"
+    }
+  ]
+}

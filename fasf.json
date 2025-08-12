@@ -1,0 +1,1600 @@
+{
+  "Questions": [
+    {
+      "options": [
+        {
+          "text": "The use of self-identification is the most accurate method for determining cultural affiliation.",
+          "value": false
+        },
+        {
+          "text": "Self-identification based on genealogy without cultural affiliation can undermine the meaningfulness of the group identity in research.",
+          "value": true
+        },
+        {
+          "text": "Self-identification has been decreasing since the 1960s, making research samples smaller.",
+          "value": false
+        },
+        {
+          "text": "The document recommends that all behavioral health research rely solely on self-identification.",
+          "value": false
+        }
+      ],
+      "text": "According to the document, what is a primary concern with using self-identification as the sole means of determining American Indian and Alaska Native identity in behavioral health research?"
+    },
+    {
+      "options": [
+        {
+          "text": "The National Health Interview Survey (NHIS)",
+          "value": false
+        },
+        {
+          "text": "The Behavioral Risk Factor Surveillance System (BRFSS)",
+          "value": false
+        },
+        {
+          "text": "The American Indian Service Utilization, Psychiatric Epidemiology, Risk and Protective Factors Project (AI-SUPERPFP)",
+          "value": true
+        },
+        {
+          "text": "The National Epidemiologic Survey on Alcohol and Related Conditions (NESARC)",
+          "value": false
+        }
+      ],
+      "text": "Which large epidemiological study mentioned in the text is the only one to date that has focused entirely on American Indian and Alaska Native behavioral health?"
+    },
+    {
+      "options": [
+        {
+          "text": "Significantly lower than any other racial/ethnic group.",
+          "value": false
+        },
+        {
+          "text": "Generally the greatest compared with all other racial/ethnic groups included in the study.",
+          "value": true
+        },
+        {
+          "text": "Comparable to the rates found in Asian Americans.",
+          "value": false
+        },
+        {
+          "text": "Slightly lower than the rates for non-Latino White Americans.",
+          "value": false
+        }
+      ],
+      "text": "What did the National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) generally conclude about the rates for anxiety, mood, and substance use disorders among American Indians and Alaska Natives?"
+    },
+    {
+      "options": [
+        {
+          "text": "They were 1.4 times more likely than White Americans to have a lifetime diagnosis of AUD.",
+          "value": true
+        },
+        {
+          "text": "They had the lowest rates of AUDs among all racial/ethnic groups.",
+          "value": false
+        },
+        {
+          "text": "Their rates of AUDs were comparable to those of African Americans.",
+          "value": false
+        },
+        {
+          "text": "They were less likely than White Americans to have a lifetime diagnosis of AUD.",
+          "value": false
+        }
+      ],
+      "text": "Based on the NESARC study and after adjusting for age and sex, what was found regarding the lifetime diagnosis of Alcohol Use Disorder (AUD) in American Indians and Alaska Natives?"
+    },
+    {
+      "options": [
+        {
+          "text": "Schizoid personality disorder",
+          "value": false
+        },
+        {
+          "text": "Paranoid personality disorder",
+          "value": false
+        },
+        {
+          "text": "Avoidant personality disorder",
+          "value": false
+        },
+        {
+          "text": "Borderline personality disorder (BPD)",
+          "value": true
+        }
+      ],
+      "text": "According to a study by Grant et al. (2008) using NESARC data, 11.9 percent of American Indians and Alaska Natives met the criteria for which personality disorder at some time in their lives, the highest of any racial/ethnic group?"
+    },
+    {
+      "options": [
+        {
+          "text": "Anxiety disorders were the most common.",
+          "value": false
+        },
+        {
+          "text": "Posttraumatic stress disorder (PTSD) rates were significantly higher for all populations compared with the National Comorbidity Study (NCS).",
+          "value": true
+        },
+        {
+          "text": "Rates of major depression were higher than those found in the NCS.",
+          "value": false
+        },
+        {
+          "text": "Psychotic disorders were found to be highly prevalent.",
+          "value": false
+        }
+      ],
+      "text": "What was a key finding of the AI-SUPERPFP study regarding rates of mental disorders when compared to the National Comorbidity Study (NCS) data?"
+    },
+    {
+      "options": [
+        {
+          "text": "American Indians and Alaska Natives had significantly lower rates of psychological distress.",
+          "value": false
+        },
+        {
+          "text": "Aboriginal participants had the highest rates of psychological distress and were 2 to 5 times more likely to have a mental or SUD.",
+          "value": true
+        },
+        {
+          "text": "White Canadians reported the highest levels of distress.",
+          "value": false
+        },
+        {
+          "text": "There were no significant differences in behavioral health among the racial/ethnic groups studied.",
+          "value": false
+        }
+      ],
+      "text": "What did the Canadian Community Health Study, as reported by Caron and Liu (2010), find regarding the behavioral health of Aboriginal participants?"
+    },
+    {
+      "options": [
+        {
+          "text": "57 percent of the veterans from a Northern Plains tribe met criteria for lifetime PTSD.",
+          "value": true
+        },
+        {
+          "text": "Rates of PTSD were significantly lower than in other Vietnam veteran populations.",
+          "value": false
+        },
+        {
+          "text": "Less than 10 percent of the veterans from a Southwest tribe had a lifetime PTSD diagnosis.",
+          "value": false
+        },
+        {
+          "text": "Co-occurring SUDs were rare among those with PTSD.",
+          "value": false
+        }
+      ],
+      "text": "According to the study by Beals et al. (2002) on American Indian Vietnam veterans, what was a significant finding regarding lifetime PTSD rates?"
+    },
+    {
+      "options": [
+        {
+          "text": "Suicide attempts were typically preceded by long periods of suicidal ideation.",
+          "value": false
+        },
+        {
+          "text": "Suicide attempts without suicidal ideation were much more common than in the general population.",
+          "value": true
+        },
+        {
+          "text": "Rates of suicidal ideation were significantly higher than in the general population.",
+          "value": false
+        },
+        {
+          "text": "There was no difference in the manifestation of suicidality compared to the general population.",
+          "value": false
+        }
+      ],
+      "text": "What was a clear difference identified in how suicidality manifested between American Indians in the AI-SUPERPFP and the general U.S. population in the National Comorbidity Study (NCS)?"
+    },
+    {
+      "options": [
+        {
+          "text": "A stronger commitment to Christianity.",
+          "value": false
+        },
+        {
+          "text": "A stronger orientation toward traditional spiritual concepts, such as balance in the universe.",
+          "value": true
+        },
+        {
+          "text": "Having no religious or spiritual beliefs.",
+          "value": false
+        },
+        {
+          "text": "A commitment to traditional religious beliefs but not spiritual concepts.",
+          "value": false
+        }
+      ],
+      "text": "A publication from the AI-SUPERPFP by Garroutte et al. (2003) found that which factor was associated with being significantly less likely to have attempted suicide?"
+    },
+    {
+      "options": [
+        {
+          "text": "A SUD at some point during one's lifetime.",
+          "value": false
+        },
+        {
+          "text": "An anxiety disorder during one's lifetime.",
+          "value": false
+        },
+        {
+          "text": "A depressive disorder at some point during one's life.",
+          "value": true
+        },
+        {
+          "text": "Sociodemographic factors such as income.",
+          "value": false
+        }
+      ],
+      "text": "According to AI-SUPERPFP data, which factor was associated with the largest increase (a 9.11-fold increase) in the odds of suicidal ideation for individuals from the Northern Plains tribes?"
+    },
+    {
+      "options": [
+        {
+          "text": "Rates of alcohol dependence were consistent across all tribes studied.",
+          "value": false
+        },
+        {
+          "text": "Lifetime rates of alcohol dependence were consistently lower than in the general population.",
+          "value": false
+        },
+        {
+          "text": "Lifetime rates of alcohol dependence were high but varied considerably, ranging from 21-56% for men in some tribes to only 1% in another.",
+          "value": true
+        },
+        {
+          "text": "Rates were universally high for men but universally low for women across all tribes.",
+          "value": false
+        }
+      ],
+      "text": "What did the study by Koss et al. (2003), which evaluated 1,660 American Indians from seven different tribes, find regarding rates of Substance Use Disorders (SUDs)?"
+    },
+    {
+      "options": [
+        {
+          "text": "Alcohol",
+          "value": true
+        },
+        {
+          "text": "Opioids",
+          "value": false
+        },
+        {
+          "text": "Marijuana",
+          "value": false
+        },
+        {
+          "text": "Methamphetamine",
+          "value": false
+        }
+      ],
+      "text": "According to the 2015 Treatment Episode Data Set (TEDS-A), what was the primary substance used most often by American Indian or Alaska Native admissions entering SUD treatment programs?"
+    },
+    {
+      "options": [
+        {
+          "text": "Continuous, low-level daily drinking.",
+          "value": false
+        },
+        {
+          "text": "Binge drinking followed by periods of abstinence.",
+          "value": true
+        },
+        {
+          "text": "Drinking primarily on weekdays.",
+          "value": false
+        },
+        {
+          "text": "Social drinking with no instances of binging.",
+          "value": false
+        }
+      ],
+      "text": "What does the text identify as the most common pattern of problem drinking among American Indians with Alcohol Use Disorder (AUD)?"
+    },
+    {
+      "options": [
+        {
+          "text": "Primary marijuana users",
+          "value": false
+        },
+        {
+          "text": "Abstainers",
+          "value": false
+        },
+        {
+          "text": "Polysubstance users",
+          "value": true
+        },
+        {
+          "text": "Primary alcohol users",
+          "value": false
+        }
+      ],
+      "text": "An analysis of AI-SUPERPFP data by Whitesell et al. (2006) categorized four basic patterns of substance use among American Indians. Among those who used substances, which was the least common pattern?"
+    },
+    {
+      "options": [
+        {
+          "text": "The availability of cheaper illicit drugs in rural areas.",
+          "value": false
+        },
+        {
+          "text": "Strict enforcement of alcohol control policies on reservations.",
+          "value": false
+        },
+        {
+          "text": "The ready availability and low cost of common household products like spray paint.",
+          "value": true
+        },
+        {
+          "text": "A cultural preference for inhalants over other substances.",
+          "value": false
+        }
+      ],
+      "text": "According to the document, why might the use of chemical inhalants be encouraged in some rural American Indian and Alaska Native communities with lower socioeconomic status?"
+    },
+    {
+      "options": [
+        {
+          "text": "Motor vehicle crashes",
+          "value": true
+        },
+        {
+          "text": "Homicide and violence",
+          "value": false
+        },
+        {
+          "text": "Cirrhosis of the liver",
+          "value": false
+        },
+        {
+          "text": "Ischemic heart disease",
+          "value": false
+        }
+      ],
+      "text": "The U.S. Burden of Disease and Injury study found that alcohol use was a significant cause of years of life lost to mortality for American Indian men. What was the top cause of life lost for both American Indian and Alaska Native men and women in that study?"
+    },
+    {
+      "options": [
+        {
+          "text": "American Indians were less likely to abstain from alcohol in the past month compared with Whites.",
+          "value": false
+        },
+        {
+          "text": "American Indians reported similar rates of heavy drinking as Whites.",
+          "value": false
+        },
+        {
+          "text": "American Indians were much more likely to have abstained from alcohol in the past month (59.9%) compared with Whites (43.1%).",
+          "value": true
+        },
+        {
+          "text": "Whites were more likely to engage in only light or moderate drinking.",
+          "value": false
+        }
+      ],
+      "text": "What did the analysis of NSDUH data from 2009–2013 by Cunningham, Solomon, and Muramoto (2016) find regarding abstinence rates?"
+    },
+    {
+      "options": [
+        {
+          "text": "A phenomenon where individuals increase their substance use as they get older.",
+          "value": false
+        },
+        {
+          "text": "A process of stopping or limiting substance use as one grows older and takes on more responsibilities.",
+          "value": true
+        },
+        {
+          "text": "A pattern specific only to American Indian populations where substance use peaks in old age.",
+          "value": false
+        },
+        {
+          "text": "The formal process of graduating from a substance use treatment program.",
+          "value": false
+        }
+      ],
+      "text": "What is the phenomenon of 'aging-out' or 'maturing out' from AUDs as described in the text?"
+    },
+    {
+      "options": [
+        {
+          "text": "Co-occurring disorders were less common in AI/AN populations than in the general population.",
+          "value": false
+        },
+        {
+          "text": "Rates of co-occurring depressive, anxiety, and personality disorders were comparable with those seen in other populations with alcohol dependence.",
+          "value": true
+        },
+        {
+          "text": "Antisocial personality disorder (ASPD) was found to be rare among the clients studied.",
+          "value": false
+        },
+        {
+          "text": "The study found no significant instances of co-occurring major depression.",
+          "value": false
+        }
+      ],
+      "text": "What did Hesselbrock, Segal, and Hesselbrock (2000) report regarding co-occurring disorders among Alaska Native clients entering alcohol treatment programs?"
+    },
+    {
+      "options": [
+        {
+          "text": "Positive family relationships mitigated the negative effects of risk factors like violence or a negative school environment.",
+          "value": true
+        },
+        {
+          "text": "Religious involvement had no effect on mitigating risk factors for SUD symptoms.",
+          "value": false
+        },
+        {
+          "text": "Positive family relationships only worked as a protective factor if religious involvement was also high.",
+          "value": false
+        },
+        {
+          "text": "Protective factors were found to be entirely different from those in the general population.",
+          "value": false
+        }
+      ],
+      "text": "In their investigation of protective factors, what did Yu and Stiffman (2010) find regarding the role of positive family relationships for American Indian and Alaska Native adolescents?"
+    },
+    {
+      "options": [
+        {
+          "text": "Low self-worth",
+          "value": false
+        },
+        {
+          "text": "Substance use by peers",
+          "value": false
+        },
+        {
+          "text": "Feelings of alienation from family or community",
+          "value": false
+        },
+        {
+          "text": "Greater involvement in traditional activities when they also involved alcohol use",
+          "value": true
+        }
+      ],
+      "text": "The SAMHSA CAPT (2013) literature review identified several risk factors for developing SUDs in American Indians and Alaska Natives. Which of the following is noted as a specific risk factor?"
+    },
+    {
+      "options": [
+        {
+          "text": "Support and caring from tribal leaders and school staff",
+          "value": true
+        },
+        {
+          "text": "Unstable intimate relationships",
+          "value": false
+        },
+        {
+          "text": "Concerns about historical trauma",
+          "value": false
+        },
+        {
+          "text": "Financial strain",
+          "value": false
+        }
+      ],
+      "text": "According to the SAMHSA CAPT (2013) literature review, which of the following is identified as a protective factor that may help prevent mental disorders or suicidality?"
+    },
+    {
+      "options": [
+        {
+          "text": "It is an intergenerational trauma resulting from repeated violence, causing grief, shame, and anger that contribute to mental disorders and SUDs.",
+          "value": true
+        },
+        {
+          "text": "It refers only to the personal trauma experienced by an individual during their lifetime.",
+          "value": false
+        },
+        {
+          "text": "It is a concept that applies only to the economic losses experienced by tribes.",
+          "value": false
+        },
+        {
+          "text": "It is a theory that has been disproven by recent research on behavioral health.",
+          "value": false
+        }
+      ],
+      "text": "How is 'historical trauma' defined in the context of American Indian and Alaska Native behavioral health?"
+    },
+    {
+      "options": [
+        {
+          "text": "They had established cultural norms for moderate alcohol use.",
+          "value": false
+        },
+        {
+          "text": "They lacked a cultural context for alcohol use and modeled the binge-drinking behavior of early European traders.",
+          "value": true
+        },
+        {
+          "text": "They used alcohol primarily in religious ceremonies.",
+          "value": false
+        },
+        {
+          "text": "They were genetically predisposed to binge drinking patterns.",
+          "value": false
+        }
+      ],
+      "text": "How did the initial introduction of alcohol to American Indian and Alaska Native peoples likely contribute to the development of problematic drinking patterns?"
+    },
+    {
+      "options": [
+        {
+          "text": "It was always protective against depression for both men and women.",
+          "value": false
+        },
+        {
+          "text": "It had no significant relationship to depressive symptoms.",
+          "value": false
+        },
+        {
+          "text": "It was associated with increased risk of depressive symptoms for women, but a lower risk for men.",
+          "value": true
+        },
+        {
+          "text": "It was associated with lower risk of depressive symptoms for women, but a higher risk for men.",
+          "value": false
+        }
+      ],
+      "text": "In a study involving 3,771 Alaska Natives by Dillard et al. (2012), what was found about the role of identification with traditional culture on the risk of depressive symptoms?"
+    },
+    {
+      "options": [
+        {
+          "text": "A term describing political and cultural self-determination in a community.",
+          "value": true
+        },
+        {
+          "text": "The rate at which a culture changes over time.",
+          "value": false
+        },
+        {
+          "text": "A measure of economic stability within a tribe.",
+          "value": false
+        },
+        {
+          "text": "The preservation of historical artifacts and languages.",
+          "value": false
+        }
+      ],
+      "text": "What is 'cultural continuity' as studied by Canadian researchers Chandler & Lalonde (2008) in relation to suicidality?"
+    },
+    {
+      "options": [
+        {
+          "text": "Binge drinking was less common among higher-income AI/AN individuals.",
+          "value": false
+        },
+        {
+          "text": "Binge drinking rates were comparable between AI/AN and non-native people in all income brackets.",
+          "value": false
+        },
+        {
+          "text": "Binge drinking was significantly more common among higher-income AI/AN individuals than among higher-income non-native people.",
+          "value": true
+        },
+        {
+          "text": "There was no association between income level and binge drinking for either group.",
+          "value": false
+        }
+      ],
+      "text": "What did the UIHI’s 2008 analysis of BRFSS data for urban areas show regarding binge drinking and income levels?"
+    },
+    {
+      "options": [
+        {
+          "text": "It led to a significant increase in rates of SUDs, especially alcohol and cannabis use disorders.",
+          "value": false
+        },
+        {
+          "text": "It had no effect on the rates of mental disorders or SUDs in the long term.",
+          "value": false
+        },
+        {
+          "text": "It was associated with significantly lower rates of SUDs and mental disorders in adulthood for the children who benefited.",
+          "value": true
+        },
+        {
+          "text": "It only affected rates of conduct disorder and ASPD, with no change in SUDs.",
+          "value": false
+        }
+      ],
+      "text": "What did the research by Costello et al. (2010) indicate about the effect of increasing family income supplements (from a casino opening) on a reservation?"
+    },
+    {
+      "options": [
+        {
+          "text": "2 times higher",
+          "value": false
+        },
+        {
+          "text": "1.76 times greater",
+          "value": true
+        },
+        {
+          "text": "Slightly lower",
+          "value": false
+        },
+        {
+          "text": "5 times greater",
+          "value": false
+        }
+      ],
+      "text": "Based on an analysis of NESARC-III data by Emerson et al. (2017), what were the odds of having an Alcohol Use Disorder (AUD) for American Indians and Alaska Natives with lifetime PTSD compared to those without?"
+    },
+    {
+      "options": [
+        {
+          "text": "It was associated with increased SUD in the general population and in AI/AN samples.",
+          "value": true
+        },
+        {
+          "text": "It was found to be a protective factor against SUDs in AI/AN samples.",
+          "value": false
+        },
+        {
+          "text": "There was no correlation found between childhood abuse and later substance use.",
+          "value": false
+        },
+        {
+          "text": "It was associated with increased SUD in the general population but not in AI/AN samples.",
+          "value": false
+        }
+      ],
+      "text": "What has research consistently found regarding the association between physical and sexual abuse in childhood and later Substance Use Disorders (SUDs)?"
+    },
+    {
+      "options": [
+        {
+          "text": "Witnessing violence to one's mother",
+          "value": false
+        },
+        {
+          "text": "Sexual abuse in childhood",
+          "value": false
+        },
+        {
+          "text": "Physical abuse, which was associated with an 8.85 times greater risk.",
+          "value": true
+        },
+        {
+          "text": "Emotional neglect",
+          "value": false
+        }
+      ],
+      "text": "In the study by Brockie et al. (2015) on adverse childhood experiences (ACEs), which ACE had the strongest relationship to depressive symptoms?"
+    },
+    {
+      "options": [
+        {
+          "text": "To assimilate American Indian children into mainstream American culture.",
+          "value": true
+        },
+        {
+          "text": "To provide advanced academic and vocational training.",
+          "value": false
+        },
+        {
+          "text": "To preserve traditional tribal languages and cultures.",
+          "value": false
+        },
+        {
+          "text": "To improve family relationships and community ties.",
+          "value": false
+        }
+      ],
+      "text": "What was the primary purpose of the government-run boarding schools that large numbers of American Indians attended from the late 19th century onward?"
+    },
+    {
+      "options": [
+        {
+          "text": "Perpetrators were most likely to be from the same tribe.",
+          "value": false
+        },
+        {
+          "text": "The majority of violent crimes against American Indians were committed by White Americans.",
+          "value": true
+        },
+        {
+          "text": "Alcohol was rarely involved in violent crimes committed against American Indians.",
+          "value": false
+        },
+        {
+          "text": "American Indians were more likely to be raped by an intimate partner than a stranger.",
+          "value": false
+        }
+      ],
+      "text": "According to crime data analyzed by Perry (2004), what was found regarding perpetrators of violent acts against American Indians?"
+    },
+    {
+      "options": [
+        {
+          "text": "American Indian and Alaska Native men experienced domestic violence more frequently than men from other racial groups.",
+          "value": true
+        },
+        {
+          "text": "Domestic violence is perceived as a problem that only affects women in these communities.",
+          "value": false
+        },
+        {
+          "text": "Men were less likely than women to initiate violence.",
+          "value": false
+        },
+        {
+          "text": "Rates of domestic violence experienced by men were the lowest among all racial groups.",
+          "value": false
+        }
+      ],
+      "text": "What does the text state about the experience of domestic violence among American Indian and Alaska Native men?"
+    },
+    {
+      "options": [
+        {
+          "text": "An individual's ability to live successfully in both their traditional culture and mainstream American culture.",
+          "value": true
+        },
+        {
+          "text": "The process where an individual completely abandons their traditional culture for the mainstream one.",
+          "value": false
+        },
+        {
+          "text": "A situation where an individual is not comfortable with either their traditional or the mainstream culture.",
+          "value": false
+        },
+        {
+          "text": "The process of learning about one's own traditional culture.",
+          "value": false
+        }
+      ],
+      "text": "How is 'biculturalism' defined in the literature on American Indian and Alaska Native behavioral health?"
+    },
+    {
+      "options": [
+        {
+          "text": "Seven of the ten leading causes of death have a behavioral component.",
+          "value": true
+        },
+        {
+          "text": "Most health problems are unrelated to behavioral factors like diet or substance use.",
+          "value": false
+        },
+        {
+          "text": "Physical illnesses are rarely exacerbated by SUDs or mental disorders.",
+          "value": false
+        },
+        {
+          "text": "The leading causes of death are almost entirely genetic and non-preventable.",
+          "value": false
+        }
+      ],
+      "text": "What did the Indian Health Service (IHS) note in 2011 regarding the health problems faced by American Indians and Alaska Natives?"
+    },
+    {
+      "options": [
+        {
+          "text": "HIV rates for this population decreased between 2010 and 2014.",
+          "value": false
+        },
+        {
+          "text": "The HIV rate for this population was lower than that for White Americans in 2014.",
+          "value": false
+        },
+        {
+          "text": "HIV rates for this population increased from 2010 to 2014, while rates for other major racial/ethnic groups stayed the same or decreased.",
+          "value": true
+        },
+        {
+          "text": "Unemployment and alcohol use are not considered risk factors for HIV infection in this population.",
+          "value": false
+        }
+      ],
+      "text": "What does the text state about HIV rates for American Indians and Alaska Natives from 2010 through 2014?"
+    },
+    {
+      "options": [
+        {
+          "text": "More than three times higher than found in the general population.",
+          "value": true
+        },
+        {
+          "text": "Significantly lower than found in the general population.",
+          "value": false
+        },
+        {
+          "text": "About the same as the rates found among White or African Americans.",
+          "value": false
+        },
+        {
+          "text": "Highest in urban populations and lowest in rural communities.",
+          "value": false
+        }
+      ],
+      "text": "Based on a review of multiple studies by May et al. (2002), how do rates of Fetal Alcohol Spectrum Disorders (FASDs) among American Indians typically compare to the general population?"
+    },
+    {
+      "options": [
+        {
+          "text": "They were significantly more likely to also report cocaine dependence.",
+          "value": true
+        },
+        {
+          "text": "They began drinking at the same age as men.",
+          "value": false
+        },
+        {
+          "text": "They were less likely to report their health status as fair or poor.",
+          "value": false
+        },
+        {
+          "text": "They had lower rates of lifetime major depression diagnosis compared to men.",
+          "value": false
+        }
+      ],
+      "text": "What did the study by Parks et al. (2001) find regarding gender differences for Alaska Natives entering treatment for AUDs?"
+    },
+    {
+      "options": [
+        {
+          "text": "It can be a significant barrier to treatment entry for parents with concerns about childcare or custody.",
+          "value": true
+        },
+        {
+          "text": "It is a motivator for treatment entry for women, but not for men.",
+          "value": false
+        },
+        {
+          "text": "It has no impact on treatment seeking or recovery.",
+          "value": false
+        },
+        {
+          "text": "Parental substance use does not increase the risk for child abuse and neglect.",
+          "value": false
+        }
+      ],
+      "text": "According to the text, how can having responsibility for children affect treatment for SUDs?"
+    },
+    {
+      "options": [
+        {
+          "text": "Reduced shame and stigma, and a better understanding of their history and culture.",
+          "value": true
+        },
+        {
+          "text": "No significant change in their parenting or understanding of their culture.",
+          "value": false
+        },
+        {
+          "text": "An increase in shame and stigma related to historical events.",
+          "value": false
+        },
+        {
+          "text": "A decision to abandon traditional parenting methods.",
+          "value": false
+        }
+      ],
+      "text": "What did participants in the pilot testing of the Historical Trauma and Unresolved Grief Intervention (HTUG) for the Lakota report about its effects?"
+    },
+    {
+      "options": [
+        {
+          "text": "Double the national rate for alcohol-related offenses.",
+          "value": true
+        },
+        {
+          "text": "Comparable to the national rate for all offenses.",
+          "value": false
+        },
+        {
+          "text": "Significantly lower than the national rate for drug offenses.",
+          "value": false
+        },
+        {
+          "text": "Steadily increasing for violent crimes between 1992 and 2001.",
+          "value": false
+        }
+      ],
+      "text": "What did Perry (2004) find about the arrest rates of American Indians and Alaska Natives for alcohol-related offenses in 2001?"
+    },
+    {
+      "options": [
+        {
+          "text": "Significantly more likely than other veterans to have PTSD.",
+          "value": true
+        },
+        {
+          "text": "Less likely to have served in combat than other veterans.",
+          "value": false
+        },
+        {
+          "text": "Less likely to experience SUDs compared to the total veteran population.",
+          "value": false
+        },
+        {
+          "text": "More likely to report their health as excellent.",
+          "value": false
+        }
+      ],
+      "text": "Research on veterans' health has found that American Indian and Alaska Native Vietnam veterans were:"
+    },
+    {
+      "options": [
+        {
+          "text": "Lack of affordability and accessibility of services.",
+          "value": true
+        },
+        {
+          "text": "An overabundance of culturally responsive providers.",
+          "value": false
+        },
+        {
+          "text": "A preference for biomedical services over all other forms of help.",
+          "value": false
+        },
+        {
+          "text": "Low rates of mental disorders and SUDs in the population.",
+          "value": false
+        }
+      ],
+      "text": "According to the New Freedom Commission on Mental Health (2003), what is a major barrier to treatment for American Indians and Alaska Natives?"
+    },
+    {
+      "options": [
+        {
+          "text": "They were more likely to seek help from traditional or spiritual healers.",
+          "value": true
+        },
+        {
+          "text": "They were less likely to seek help from any source compared to the general population.",
+          "value": false
+        },
+        {
+          "text": "They primarily sought help from medical professionals, avoiding traditional healers.",
+          "value": false
+        },
+        {
+          "text": "There were no differences in help-seeking behavior compared to general population studies.",
+          "value": false
+        }
+      ],
+      "text": "What was a unique finding from the AI-SUPERPFP study regarding help-seeking for anxiety or depressive disorders, which is not often captured in general population studies?"
+    },
+    {
+      "options": [
+        {
+          "text": "Concerns about the quality of care",
+          "value": true
+        },
+        {
+          "text": "Lack of transportation",
+          "value": false
+        },
+        {
+          "text": "Language barriers",
+          "value": false
+        },
+        {
+          "text": "Preference for individual therapy only",
+          "value": false
+        }
+      ],
+      "text": "In the AI-SUPERPFP study on obstacles to seeking treatment, which category of barriers was cited most frequently by respondents?"
+    },
+    {
+      "options": [
+        {
+          "text": "Only 17 percent of those who stopped drinking found SUD treatment helpful, while 83 percent stopped without any treatment.",
+          "value": true
+        },
+        {
+          "text": "Nearly all individuals who achieved recovery credited formal SUD treatment.",
+          "value": false
+        },
+        {
+          "text": "Individuals felt that treatment was important but inaccessible.",
+          "value": false
+        },
+        {
+          "text": "The study found that motivation to enter treatment was universally high.",
+          "value": false
+        }
+      ],
+      "text": "What did the study by Leung et al. (1993) suggest about the perceived importance of SUD treatment for recovery among some American Indians?"
+    },
+    {
+      "options": [
+        {
+          "text": "Self-referral was the most common source.",
+          "value": false
+        },
+        {
+          "text": "Referral from a traditional healer.",
+          "value": false
+        },
+        {
+          "text": "Referral from the criminal justice system.",
+          "value": true
+        },
+        {
+          "text": "Referral from a primary care physician.",
+          "value": false
+        }
+      ],
+      "text": "According to the 2015 TEDS data set, what was the most likely source of referral to SUD treatment for American Indians?"
+    },
+    {
+      "options": [
+        {
+          "text": "They were retained for significantly fewer days than matched controls in inpatient programs, but for more days in outpatient programs.",
+          "value": true
+        },
+        {
+          "text": "They had significantly higher retention rates in all types of programs compared to matched controls.",
+          "value": false
+        },
+        {
+          "text": "They had much worse treatment outcomes at the 9-month follow-up.",
+          "value": false
+        },
+        {
+          "text": "They were less likely to be retained in outpatient programs.",
+          "value": false
+        }
+      ],
+      "text": "What did researchers find when comparing SUD treatment retention for American Indians in California with a matched control group?"
+    },
+    {
+      "options": [
+        {
+          "text": "To determine the quantity and frequency of consumption.",
+          "value": false
+        },
+        {
+          "text": "To assess whether drinking interferes with social roles, norms, and expectations.",
+          "value": true
+        },
+        {
+          "text": "To use the standard cutoff scores from the general population.",
+          "value": false
+        },
+        {
+          "text": "To focus only on withdrawal symptoms.",
+          "value": false
+        }
+      ],
+      "text": "What did Weaver (2001) suggest is a more significant criterion than 'quantity and frequency' when determining AUDs among American Indians?"
+    },
+    {
+      "options": [
+        {
+          "text": "They found that the standard cutoff score was highly specific for this population.",
+          "value": false
+        },
+        {
+          "text": "They concluded that significantly higher cutoff scores were required, questioning the value of the SMAST for American Indians.",
+          "value": true
+        },
+        {
+          "text": "They determined the SMAST was equally effective across all tribal groups without modification.",
+          "value": false
+        },
+        {
+          "text": "They found that a lower cutoff score was needed for men, but a higher score for women.",
+          "value": false
+        }
+      ],
+      "text": "In an evaluation of the Short Michigan Alcohol Screening Test (SMAST), what did Robin et al. (2004) conclude?"
+    },
+    {
+      "options": [
+        {
+          "text": "The MMPI was found to be highly accurate in distinguishing diagnoses like depression from schizophrenia in this population.",
+          "value": false
+        },
+        {
+          "text": "The MMPI may not be appropriate and may evaluate certain cultural beliefs as pathological or deviant.",
+          "value": true
+        },
+        {
+          "text": "The MMPI scores showed no significant differences compared to normative samples.",
+          "value": false
+        },
+        {
+          "text": "The MMPI is the most recommended screening instrument for this population.",
+          "value": false
+        }
+      ],
+      "text": "What have some reports, such as Pollack and Shore (1980), found regarding the use of the Minnesota Multiphasic Personality Inventory (MMPI) with American Indian and Alaska Native clients?"
+    },
+    {
+      "options": [
+        {
+          "text": "Peer-led interventions",
+          "value": false
+        },
+        {
+          "text": "Community empowerment approaches",
+          "value": false
+        },
+        {
+          "text": "Bicultural competence skills training",
+          "value": true
+        },
+        {
+          "text": "Programs focused solely on abstinence",
+          "value": false
+        }
+      ],
+      "text": "According to a review by Hawkins et al. (2004), research supports the effectiveness of which type of prevention activity in reducing SUDs for American Indian and Alaska Native youth?"
+    },
+    {
+      "options": [
+        {
+          "text": "Participants who received the intervention showed no significant improvements.",
+          "value": false
+        },
+        {
+          "text": "The program reduced substance-related arrests and the quantity of alcohol consumed at some sites, but its effect was not consistent across all sites.",
+          "value": true
+        },
+        {
+          "text": "The program was universally successful at all 14 sites where it was implemented.",
+          "value": false
+        },
+        {
+          "text": "The program was only effective in urban areas, not in communities on tribal lands.",
+          "value": false
+        }
+      ],
+      "text": "What were the findings from the evaluation of the 'Healthy Nations' prevention program?"
+    },
+    {
+      "options": [
+        {
+          "text": "As a purely personal act of despair.",
+          "value": false
+        },
+        {
+          "text": "As a 'public expression of collective pain' rather than a purely personal act.",
+          "value": true
+        },
+        {
+          "text": "In the same way it is perceived in mainstream American culture.",
+          "value": false
+        },
+        {
+          "text": "As a behavior unrelated to community or family issues.",
+          "value": false
+        }
+      ],
+      "text": "How might the meaning of suicide be different in American Indian and Alaska Native cultures, as observed by Wexler and Gone (2012)?"
+    },
+    {
+      "options": [
+        {
+          "text": "They focus on fulfilling individual goals and competition.",
+          "value": false
+        },
+        {
+          "text": "They place greater importance on family, community, and social harmony.",
+          "value": true
+        },
+        {
+          "text": "They separate spiritual and physical health into distinct categories.",
+          "value": false
+        },
+        {
+          "text": "They view treatment as purely remedial rather than preventive.",
+          "value": false
+        }
+      ],
+      "text": "Generally, what is a key difference between American Indian and Alaska Native models of health and European American treatment models?"
+    },
+    {
+      "options": [
+        {
+          "text": "Cognitive-Behavioral Therapy (CBT) and Relapse Prevention Therapy",
+          "value": false
+        },
+        {
+          "text": "Motivational Interviewing (MI) and Relapse Prevention Therapy",
+          "value": true
+        },
+        {
+          "text": "Psychoanalytic Therapy and MI",
+          "value": false
+        },
+        {
+          "text": "12-Step Facilitation and CBT",
+          "value": false
+        }
+      ],
+      "text": "In a 2016 survey of SUD treatment programs serving AI/AN clients, which two interventions were considered culturally appropriate by the majority of responding providers?"
+    },
+    {
+      "options": [
+        {
+          "text": "It is often not well-suited for clients who are reluctant to engage in extensive self-disclosure to a stranger.",
+          "value": true
+        },
+        {
+          "text": "It is highly effective because of its emphasis on individual autonomy, which aligns with all Native cultures.",
+          "value": false
+        },
+        {
+          "text": "It is the most recommended approach for all American Indian and Alaska Native clients.",
+          "value": false
+        },
+        {
+          "text": "Its focus on family and community makes it universally applicable.",
+          "value": false
+        }
+      ],
+      "text": "Why did LaFromboise et al. (1990) caution against using the standard neo-Rogerian model for counseling with American Indian and Alaska Native clients?"
+    },
+    {
+      "options": [
+        {
+          "text": "To be more rigid with the length and frequency of sessions.",
+          "value": false
+        },
+        {
+          "text": "To de-emphasize linear cause-and-effect relationships between thoughts and feelings.",
+          "value": true
+        },
+        {
+          "text": "To focus exclusively on personal autonomy in behavior change.",
+          "value": false
+        },
+        {
+          "text": "To avoid incorporating family and community into treatment.",
+          "value": false
+        }
+      ],
+      "text": "What was one suggestion from Jackson et al. (2006) for modifying Cognitive Behavioral Therapy (CBT) interventions for American Indians and Alaska Natives?"
+    },
+    {
+      "options": [
+        {
+          "text": "It had no additional benefits compared to CBT or 12-Step facilitation.",
+          "value": false
+        },
+        {
+          "text": "Participants in MET reported significantly fewer drinks per drinking day during the 10- to 15-month posttreatment follow-up period.",
+          "value": true
+        },
+        {
+          "text": "MET was found to be less effective than the other two interventions.",
+          "value": false
+        },
+        {
+          "text": "Participants in all three interventions showed no improvement over the 15-month follow-up period.",
+          "value": false
+        }
+      ],
+      "text": "What did the analysis of Project MATCH data by Villanueva et al. (2007) suggest about Motivational Enhancement Therapy (MET) for American Indian and Alaska Native clients?"
+    },
+    {
+      "options": [
+        {
+          "text": "It involves clients' families and communities in the recovery process using a systems approach.",
+          "value": true
+        },
+        {
+          "text": "It is a model that focuses exclusively on individual therapy and client autonomy.",
+          "value": false
+        },
+        {
+          "text": "It is primarily used in urban settings and is not applicable to rural areas.",
+          "value": false
+        },
+        {
+          "text": "It excludes traditional practices and historical trauma from the treatment process.",
+          "value": false
+        }
+      ],
+      "text": "What is the 'recovery management' model as described by White & Sanders (2006)?"
+    },
+    {
+      "options": [
+        {
+          "text": "A confrontational group therapy model.",
+          "value": false
+        },
+        {
+          "text": "A spiritual practice where an object is passed, and each person can speak without interruption or discussion from others.",
+          "value": true
+        },
+        {
+          "text": "A type of individual counseling focused on psychoanalysis.",
+          "value": false
+        },
+        {
+          "text": "A formal 12-Step meeting format.",
+          "value": false
+        }
+      ],
+      "text": "What is a Talking Circle, as described in the text as an alternative to group therapy?"
+    },
+    {
+      "options": [
+        {
+          "text": "The pragmatic view is that these practices are more cost-effective than standard treatments.",
+          "value": false
+        },
+        {
+          "text": "The political perspective is that these practices counteract the effects of colonization and reaffirm the value of Native peoples.",
+          "value": true
+        },
+        {
+          "text": "The spiritual perspective is that these practices are primarily for psychological benefit, not spiritual well-being.",
+          "value": false
+        },
+        {
+          "text": "The document concludes that there are no valid reasons for using traditional practices in modern behavioral health.",
+          "value": false
+        }
+      ],
+      "text": "As observed by Gone (2013), what is one of the perspectives on using traditional practices in behavioral health settings?"
+    },
+    {
+      "options": [
+        {
+          "text": "Less involvement in American Indian culture was associated with greater levels of heavy drinking.",
+          "value": true
+        },
+        {
+          "text": "There was no significant relationship between cultural involvement and drinking levels.",
+          "value": false
+        },
+        {
+          "text": "More involvement in the culture was associated with higher levels of heavy drinking.",
+          "value": false
+        },
+        {
+          "text": "The study focused only on spiritual beliefs, not cultural activities.",
+          "value": false
+        }
+      ],
+      "text": "What did research by Herman-Stahl et al. (2003) find in a sample of American Indians living on reservations in South Dakota?"
+    },
+    {
+      "options": [
+        {
+          "text": "It is used to treat SUDs by ritualizing its use in a sacred, therapeutic context.",
+          "value": true
+        },
+        {
+          "text": "It is considered a non-sacred substance and its use is discouraged.",
+          "value": false
+        },
+        {
+          "text": "Its use is associated with long-term negative psychological effects.",
+          "value": false
+        },
+        {
+          "text": "It is used recreationally and is not part of any formal ceremony.",
+          "value": false
+        }
+      ],
+      "text": "What is the role of peyote in the context of the Native American Church as described in the document?"
+    },
+    {
+      "options": [
+        {
+          "text": "Indigenous mutual-help movements, like Wellbriety, that incorporate cultural practices and spiritual beliefs.",
+          "value": true
+        },
+        {
+          "text": "Strictly biomedical approaches that exclude cultural elements.",
+          "value": false
+        },
+        {
+          "text": "Individual therapy that discourages community involvement.",
+          "value": false
+        },
+        {
+          "text": "Programs that are identical to those used in the general population, with no adaptations.",
+          "value": false
+        }
+      ],
+      "text": "What alternative to traditional 12-Step groups is described as being widespread among American Indian and Alaska Native peoples?"
+    },
+    {
+      "options": [
+        {
+          "text": "It has been identified as a protective factor against SUDs and some mental disorders.",
+          "value": true
+        },
+        {
+          "text": "It is identified as a risk factor for relapse in all studies mentioned.",
+          "value": false
+        },
+        {
+          "text": "It has no significant impact on recovery from SUDs.",
+          "value": false
+        },
+        {
+          "text": "It is less important for recovery than individual willpower.",
+          "value": false
+        }
+      ],
+      "text": "What is the role of social support in the recovery from SUDs for American Indians and Alaska Natives?"
+    },
+    {
+      "options": [
+        {
+          "text": "Being responsible for caring for children",
+          "value": true
+        },
+        {
+          "text": "Pressure from a court order",
+          "value": false
+        },
+        {
+          "text": "A physical or emotional health problem",
+          "value": false
+        },
+        {
+          "text": "Deciding to stop due to knowledge about alcohol's effects",
+          "value": false
+        }
+      ],
+      "text": "In the AI-SUPERPFP study, what factor was most often cited by women (30.1%) as helping them to stop or cut down on drinking?"
+    },
+    {
+      "options": [
+        {
+          "text": "Realizing that their drinking was hurting others and deciding to stop.",
+          "value": true
+        },
+        {
+          "text": "Attending 12-Step meetings.",
+          "value": false
+        },
+        {
+          "text": "Talking to a professional about their drinking.",
+          "value": false
+        },
+        {
+          "text": "Undergoing residential SUD treatment.",
+          "value": false
+        }
+      ],
+      "text": "In Venner and Feldstein’s (2006) research with American Indians who had achieved a significant period of recovery, what did 100 percent of the respondents say was a realization they had before entering recovery?"
+    },
+    {
+      "options": [
+        {
+          "text": "Providers must focus only on the individual's healing journey.",
+          "value": false
+        },
+        {
+          "text": "The community has a critical role, and healing is expected to take place within the community, not just as an individual enterprise.",
+          "value": true
+        },
+        {
+          "text": "Community involvement is generally a barrier to effective treatment.",
+          "value": false
+        },
+        {
+          "text": "The Western medical model, which focuses on the individual, is considered the most effective.",
+          "value": false
+        }
+      ],
+      "text": "What is one of the most common critiques of standard behavioral health services by American Indians and Alaska Natives, regarding community involvement?"
+    },
+    {
+      "options": [
+        {
+          "text": "A community-wide approach that shifts attitudes and uses policies, enforcement, and traditional customs.",
+          "value": true
+        },
+        {
+          "text": "An intervention focused solely on individual psychotherapy.",
+          "value": false
+        },
+        {
+          "text": "The establishment of more liquor stores within the community.",
+          "value": false
+        },
+        {
+          "text": "A program that relied on outside experts with no community involvement.",
+          "value": false
+        }
+      ],
+      "text": "What type of intervention led to a 95-percent recovery rate from AUDs in the Alkali Lake community in British Columbia?"
+    },
+    {
+      "options": [
+        {
+          "text": "It requires the program to also become more involved in the community, providing a broader range of services.",
+          "value": true
+        },
+        {
+          "text": "It has little impact on the program's scope of services.",
+          "value": false
+        },
+        {
+          "text": "It generally leads to a reduction in the services a program needs to offer.",
+          "value": false
+        },
+        {
+          "text": "It means treatment should only focus on clinical activities, separate from community life.",
+          "value": false
+        }
+      ],
+      "text": "What is an implication for behavioral health programs that treat American Indian and Alaska Native clients when they involve the community in treatment?"
+    },
+    {
+      "options": [
+        {
+          "text": "Prohibition policies in Alaska Native communities have been associated with reductions in injury, violence, and crime.",
+          "value": true
+        },
+        {
+          "text": "Prohibition policies have consistently led to an increase in alcohol-related mortality.",
+          "value": false
+        },
+        {
+          "text": "Tribal governments have found that prohibiting alcohol is always less effective than trying to control its use.",
+          "value": false
+        },
+        {
+          "text": "Tight restrictions on alcohol have no impact on the use of other substances like inhalants.",
+          "value": false
+        }
+      ],
+      "text": "What does the text say about the effect of alcohol prohibition policies in some Alaska Native communities?"
+    },
+    {
+      "options": [
+        {
+          "text": "Removal of human contact, which some see as essential for healing.",
+          "value": true
+        },
+        {
+          "text": "Increased travel costs and time for clients.",
+          "value": false
+        },
+        {
+          "text": "Decreased client comfort and willingness to disclose.",
+          "value": false
+        },
+        {
+          "text": "Limited access to services in remote areas.",
+          "value": false
+        }
+      ],
+      "text": "What was a major concern raised by members of rural First Nations communities regarding telemental services, particularly those using videoconferencing?"
+    },
+    {
+      "options": [
+        {
+          "text": "It is a key service in promoting recovery due to the link between unemployment and mental/substance use disorders.",
+          "value": true
+        },
+        {
+          "text": "It is generally not needed as employment rates are high in this population.",
+          "value": false
+        },
+        {
+          "text": "It has not been shown to be effective for clients in SUD treatment.",
+          "value": false
+        },
+        {
+          "text": "Federal funding for such programs is not available for tribes.",
+          "value": false
+        }
+      ],
+      "text": "What is the significance of vocational training for American Indians and Alaska Natives as discussed in the text?"
+    }
+  ]
+}
